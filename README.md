@@ -1,6 +1,6 @@
 # Tech Blog
 
-The tech blog is an application where developers can publish their blog posts and comment on other developers’ posts as well. The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+The tech blog is an application where developers can publish their blog posts and comment on other developers’ posts as well. The app follows the MVC paradigm in its architectural structure and using Handlebars.js as the templating language.
 
 ## User Story
 AS A developer who writes about tech
